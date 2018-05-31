@@ -38,4 +38,5 @@ These are regular RData objects:
 - Genotype data: [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000979.v1.p1) - we will share analysis-ready genotype data with researchers that obtain dbGaP access of that accession. 
 
 ### Analysis Code
-https://github.com/LieberInstitute/brainseq_phase1
+
+- [GitHub](https://github.com/LieberInstitute/brainseq_phase1)]
