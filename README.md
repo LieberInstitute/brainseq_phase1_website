@@ -27,7 +27,7 @@ These are regular RData objects:
 
 - [SCZD vs Control: All Quantified Features, RData](https://s3.us-east-2.amazonaws.com/jaffe-nat-neuro-2018/all_de_features.rda)
 - [SCZD vs Control: All Expressed Features, RData](https://s3.us-east-2.amazonaws.com/jaffe-nat-neuro-2018/expressed_de_features.rda)
-- [eQTL: All Significant eQTLs, RData](https://s3.us-east-2.amazonaws.com/jaffe-nat-neuro-2018/allEqtls_withGtex.rda)
+- [eQTL: All Significant (~29M) eQTLs, RData](https://s3.us-east-2.amazonaws.com/jaffe-nat-neuro-2018/allEqtls_withGtex.rda). This needs a lot of memory.
 - [Developmental Changes, Table S3, CSV](https://github.com/LieberInstitute/brainseq_phase1_website/blob/master/tables/suppTable3_develChanges_sigExprsFeatures.csv.gz)
 
 
